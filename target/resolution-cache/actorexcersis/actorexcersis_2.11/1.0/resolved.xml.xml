@@ -4,7 +4,7 @@
 		module="actorexcersis_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20150627011759"
+		publication="20150701223103"
 	>
 		<description>
 		actorExcersis
@@ -34,6 +34,6 @@
 	<dependencies>
 		<dependency org="org.scala-lang" name="scala-compiler" rev="2.11.6" conf="scala-tool->default,optional(default)"/>
 		<dependency org="org.scala-lang" name="scala-library" rev="2.11.6" conf="scala-tool->default,optional(default);compile->default(compile)"/>
-		<dependency org="com.typesafe.akka" name="akka-actor_2.11" rev="2.4-SNAPSHOT" conf="compile->default(compile)"/>
+		<dependency org="com.typesafe.akka" name="akka-actor_2.11" rev="2.3.11" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

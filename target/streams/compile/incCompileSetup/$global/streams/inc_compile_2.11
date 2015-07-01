@@ -1,0 +1,309 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+17 items
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Average$$anonfun$1.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Average$$anonfun$receive$1.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Average.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/RangeCalcultor$$anonfun$receive$2.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/RangeCalcultor.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/CountNumWordsInFile$$anonfun$receive$2.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/CountNumWordsInFile.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$1.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$preStart$1.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$receive$1.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$recursiveListFiles$1.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$recursiveListFiles$2.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Hello$$anonfun$receive$1.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Hello.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Sender$$anonfun$receive$2.class
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> /Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Sender.class
+binary dependencies:
+9 items
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Users/ciaran/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> /Users/ciaran/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> /Users/ciaran/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> /Users/ciaran/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> /Users/ciaran/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+17 items
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Average
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Average$$anonfun$1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Average$$anonfun$receive$1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> RangeCalcultor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> RangeCalcultor$$anonfun$receive$2
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> CountNumWordsInFile
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> CountNumWordsInFile$$anonfun$receive$2
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> DirectoryTraverseWordCount
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> DirectoryTraverseWordCount$$anonfun$1
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> DirectoryTraverseWordCount$$anonfun$preStart$1
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> DirectoryTraverseWordCount$$anonfun$receive$1
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> DirectoryTraverseWordCount$$anonfun$recursiveListFiles$1
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> DirectoryTraverseWordCount$$anonfun$recursiveListFiles$2
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Hello
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Hello$$anonfun$receive$1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Sender
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Sender$$anonfun$receive$2
+used names:
+148 items
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> !
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> +
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> <init>
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> A1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Actor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Array
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Average
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> B1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> ClassTag
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Function1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Int
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> IntIsIntegral
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> LogSource
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Logging
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Numeric
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Predef
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Props
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Random
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> RangeCalcultor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> Unit
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> actor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> actorOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> actorRef2Scala
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> akka
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> answer
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> answer_=
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> apply
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> asInstanceOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> calculator
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> calculator2
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> context
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> error
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> event
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> fill
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> fromActor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> info
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> intArrayOps
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> isInstanceOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> log
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> materializeClassTag
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> math
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> nextInt
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> numbersToBeComputed
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> package
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> scala
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> self
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> sender
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> size
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> slice
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> sum
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> system
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> unchecked
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> util
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> !
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> +
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> ++
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> <init>
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> A1
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Actor
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> ActorLogging
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Array
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> B1
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> ClassTag
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> CountNumWordsInFile
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> DirectoryTraverseWordCount
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> File
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Function1
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Logging
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Math
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Predef
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Props
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Regex
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> Unit
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> actor
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> actorOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> actorRef2Scala
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> akka
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> apply
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> asInstanceOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> canBuildFrom
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> context
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> counter
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> error
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> event
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> f
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> file
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> files
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> filter
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> findFirstIn
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> flatMap
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> foreach
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> getName
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> good
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> info
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> io
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> isDefined
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> isDirectory
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> isInstanceOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> java
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> lang
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> listFiles
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> log
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> matching
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> materializeClassTag
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> package
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> r
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> random
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> recursiveListFiles
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> refArrayOps
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> scala
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> self
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> these
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> unchecked
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> util
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> !
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> <init>
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> ==
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> A1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Actor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> ActorLogging
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> B1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> ClassTag
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Function1
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Hello
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> LogSource
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Logging
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Props
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Sender
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> Unit
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> actor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> actorOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> actorRef2Scala
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> akka
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> apply
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> asInstanceOf
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> context
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> event
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> fromActor
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> greeter
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> info
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> log
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> materializeClassTag
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> package
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> scala
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> self
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> sender
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> system
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> unchecked
+product stamps:
+17 items
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Average$$anonfun$1.class -> lastModified(1435790912000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Average$$anonfun$receive$1.class -> lastModified(1435790912000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Average.class -> lastModified(1435790912000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/CountNumWordsInFile$$anonfun$receive$2.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/CountNumWordsInFile.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$1.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$preStart$1.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$receive$1.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$recursiveListFiles$1.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount$$anonfun$recursiveListFiles$2.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/DirectoryTraverseWordCount.class -> lastModified(1435792524000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Hello$$anonfun$receive$1.class -> lastModified(1435790913000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Hello.class -> lastModified(1435790913000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/RangeCalcultor$$anonfun$receive$2.class -> lastModified(1435790913000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/RangeCalcultor.class -> lastModified(1435790913000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Sender$$anonfun$receive$2.class -> lastModified(1435790913000)
+/Users/ciaran/Development/actorExcersises/target/scala-2.11/classes/Sender.class -> lastModified(1435790913000)
+source stamps:
+3 items
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> hash(ff47bed39310831a04a728fc997f882eac8c8322)
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> hash(4f3bc7aa1e777d72ae21a1fe54982462f63e6b83)
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> hash(2f45777feda6c2c5113a5899b8e0339593062d7b)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1395128855000)
+/Users/ciaran/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> lastModified(1431096334000)
+/Users/ciaran/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_05.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/ciaran/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.3.11.jar -> akka.actor.ActorLogging
+/Users/ciaran/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.6.jar -> scala.Serializable
+internal apis:
+3 items
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAy0UoBAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjwfhxHQABHNlbGZzcQB+AAvfrYoNdAAHY29udGV4dHVxAH4ACQAAACdzcQB+AAspQYVndAAGbm90aWZ5c3EAfgALCK3hn3QAB1JlY2VpdmVzcQB+AAt74kGtdAAEd2FpdHNxAH4AC0WX6J50AA0kYXNJbnN0YW5jZU9mc3EAfgALWOUre3QABmVxdWFsc3NxAH4ACzRQni90AAxhc0luc3RhbmNlT2ZzcQB+AAt+eaIRdAAMc3luY2hyb25pemVkc3EAfgALAIdjwXQADSRpc0luc3RhbmNlT2ZzcQB+AAtiYToZdAATbnVtYmVyc1RvQmVDb21wdXRlZHNxAH4ACz7Hp9R0AAdyZWNlaXZlc3EAfgALilTWI3QACnByZVJlc3RhcnRzcQB+AAuJ+52hdAANYXJvdW5kUmVjZWl2ZXNxAH4AC0rjCrx0AAtwb3N0UmVzdGFydHNxAH4AC5g7Ect0AAhwb3N0U3RvcHNxAH4AC47zFOp0AAlub3RpZnlBbGxzcQB+AAvC/H5ldAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAu3+twEdAAMaXNJbnN0YW5jZU9mc3EAfgALGDNCfnQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAtqg3e0dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAujDiuYdAAOUmFuZ2VDYWxjdWx0b3JzcQB+AAtfbHk2dAAGPGluaXQ+c3EAfgALv27zMHQACHByZVN0YXJ0c3EAfgALuuXAgnQACXVuaGFuZGxlZHNxAH4AC7Kqlpl0AAI9PXNxAH4AC1CFgcl0AAVjbG9uZXNxAH4ACy92z190AAZhbnN3ZXJzcQB+AAuPh78WdAAGc2VuZGVyc3EAfgALKcL2uHQACHRvU3RyaW5nc3EAfgALFgbB4XQAB0F2ZXJhZ2VzcQB+AAsGK4xQdAACIT1zcQB+AAu80I1KdAAIZ2V0Q2xhc3NzcQB+AAso/fM5dAACbmVzcQB+AAtJHk4QdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALLRm1PXQAAmVxc3EAfgAL1EGBwnQAA2xvZ3NxAH4AC3zYuFJ0AAIjI3NxAH4AC2dWzEd0AAhmaW5hbGl6ZXNxAH4AC439kyp0AAhoYXNoQ29kZXNxAH4AC7Qqwqd0AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAJzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AS3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgCAAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBpTAAJaW5oZXJpdGVkcQB+AGlMAAdwYXJlbnRzcQB+AGl4cQB+AIdzcQB+AIABdXEAfgBkAAAAAHBzcQB+AIABdXEAfgBkAAAAAHBzcQB+AIABdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCGdAAFQWN0b3JzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIZzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGFra2FzcQB+AJ90AAVhY3RvcnNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCgc3EAfgCTdAAGT2JqZWN0c3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3QABGphdmFzcQB+AJ90AARsYW5ncQB+AKZzcQB+AJN0AANBbnlzcQB+AJdzcQB+AJp1cQB+AJ0AAAACc3EAfgCfdAAFc2NhbGFxAH4ApnBwc3EAfgBmcQB+AHN1cQB+AHQAAAAAc3EAfgB2AHEAfgA5dXEAfgB4AAAAAHEAfgB8dXEAfgB+AAAAAHNxAH4AgAFxAH4AiHBzcQB+AIABc3EAfgCKc3EAfgCAAXVxAH4AZAAAAABwc3EAfgCAAXVxAH4AZAAAAABwc3EAfgCAAXVxAH4AkQAAAANzcQB+AJN0AAVBY3RvcnNxAH4Al3NxAH4AmnVxAH4AnQAAAANzcQB+AJ90AARha2thc3EAfgCfdAAFYWN0b3JxAH4ApnNxAH4Ak3EAfgCoc3EAfgCXc3EAfgCadXEAfgCdAAAAA3NxAH4An3EAfgCtc3EAfgCfcQB+AK9xAH4ApnNxAH4Ak3EAfgCxc3EAfgCXc3EAfgCadXEAfgCdAAAAAnNxAH4An3EAfgC2cQB+AKZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFOS86kdXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEMvVXNlcnMvY2lhcmFuL0RldmVsb3BtZW50L2FjdG9yRXhjZXJzaXNlcy90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU/0e+05MQgxoEpyj8mX+ILqyMgyI=
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBptV4wAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwv4ZTjXQABHNlbGZzcQB+AAuAGHzhdAAHY29udGV4dHVxAH4ACQAAACZzcQB+AAu1UlccdAAGbm90aWZ5c3EAfgALyjPBrHQAB1JlY2VpdmVzcQB+AAtTrayrdAAEd2FpdHNxAH4AC2CaPBl0AA0kYXNJbnN0YW5jZU9mc3EAfgALQ9dncHQAGkRpcmVjdG9yeVRyYXZlcnNlV29yZENvdW50c3EAfgALtUU+cHQABmVxdWFsc3NxAH4ACwnW5q50AAxhc0luc3RhbmNlT2ZzcQB+AAsfwrXNdAAMc3luY2hyb25pemVkc3EAfgALCdPZpHQADSRpc0luc3RhbmNlT2ZzcQB+AAunPhGVdAAHcmVjZWl2ZXNxAH4AC4UpIRZ0AApwcmVSZXN0YXJ0c3EAfgALYkA5SXQADWFyb3VuZFJlY2VpdmVzcQB+AAtkb4FvdAALcG9zdFJlc3RhcnRzcQB+AAvs7oQBdAAIcG9zdFN0b3BzcQB+AAspG6rmdAAJbm90aWZ5QWxsc3EAfgALz7Y94nQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALTTE8G3QADGlzSW5zdGFuY2VPZnNxAH4AC4bIgaB0ABBhcm91bmRQcmVSZXN0YXJ0c3EAfgALG0zHgXQADmFyb3VuZFBvc3RTdG9wc3EAfgALKwrgpXQABjxpbml0PnNxAH4AC/PvCSB0AAhwcmVTdGFydHNxAH4ACxuDFVR0ABNDb3VudE51bVdvcmRzSW5GaWxlc3EAfgALbabULXQACXVuaGFuZGxlZHNxAH4AC0QxUpZ0AAI9PXNxAH4AC5KReWB0AAVjbG9uZXNxAH4AC3UDe7J0AAZzZW5kZXJzcQB+AAtN7DzudAAIdG9TdHJpbmdzcQB+AAtkUpLqdAAScmVjdXJzaXZlTGlzdEZpbGVzc3EAfgALRpWXknQAAiE9c3EAfgALx4lOnnQACGdldENsYXNzc3EAfgAL73ai6HQAAm5lc3EAfgALTP3S6nQAEnN1cGVydmlzb3JTdHJhdGVneXNxAH4ACxfvrrJ0AAJlcXNxAH4AC7rEych0AANsb2dzcQB+AAtCqzEQdAACIyNzcQB+AAsBmi7tdAAIZmluYWxpemVzcQB+AAsv/UuKdAAIaGFzaENvZGVzcQB+AAt55NHNdAAOYXJvdW5kUHJlU3RhcnRzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBneHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADHhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABt1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAhDbGFzc0RlZnVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AfgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AZ0wACWluaGVyaXRlZHEAfgBnTAAHcGFyZW50c3EAfgBneHEAfgCFc3EAfgB+AXVxAH4AYgAAAABwc3EAfgB+AXVxAH4AYgAAAABwc3EAfgB+AXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAMTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AhHQADEFjdG9yTG9nZ2luZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AAx4cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEYWtrYXNxAH4AnXQABWFjdG9yc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ5zcQB+AJF0AAVBY3RvcnEAfgCXc3EAfgCRdAAGT2JqZWN0c3EAfgCVc3EAfgCYdXEAfgCbAAAAA3NxAH4AnXQABGphdmFzcQB+AJ10AARsYW5ncQB+AKRzcQB+AJF0AANBbnlzcQB+AJVzcQB+AJh1cQB+AJsAAAACc3EAfgCddAAFc2NhbGFxAH4ApHBwc3EAfgBkcQB+AHF1cQB+AHIAAAAAc3EAfgB0AHEAfgA9dXEAfgB2AAAAAHEAfgB6dXEAfgB8AAAAAHNxAH4AfgFxAH4AhnBzcQB+AH4Bc3EAfgCIc3EAfgB+AXVxAH4AYgAAAABwc3EAfgB+AXVxAH4AYgAAAABwc3EAfgB+AXVxAH4AjwAAAARzcQB+AJF0AAxBY3RvckxvZ2dpbmdzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAEYWtrYXNxAH4AnXQABWFjdG9ycQB+AKRzcQB+AJF0AAVBY3RvcnEAfgDHc3EAfgCRcQB+AKhzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCdcQB+AK1zcQB+AJ1xAH4Ar3EAfgCkc3EAfgCRcQB+ALFzcQB+AJVzcQB+AJh1cQB+AJsAAAACc3EAfgCdcQB+ALZxAH4ApHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU5L50GSdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRPO8eqHnd9cq4hof5UmCRi9j5rgw==
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAs8e0uAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw5oUe03QABHNlbGZzcQB+AAsdaAEUdAAHY29udGV4dHVxAH4ACQAAACVzcQB+AAvhJzcndAAGbm90aWZ5c3EAfgALK9iT+3QAB1JlY2VpdmVzcQB+AAuCIWCUdAAEd2FpdHNxAH4AC1+FIHB0AA0kYXNJbnN0YW5jZU9mc3EAfgALNTt4cnQABlNlbmRlcnNxAH4ACzDlBxB0AAZlcXVhbHNzcQB+AAtfw33pdAAMYXNJbnN0YW5jZU9mc3EAfgALsqG08nQADHN5bmNocm9uaXplZHNxAH4AC289xeJ0AA0kaXNJbnN0YW5jZU9mc3EAfgALPNjzPnQAB3JlY2VpdmVzcQB+AAvq6k/YdAAKcHJlUmVzdGFydHNxAH4AC0wLqh50AA1hcm91bmRSZWNlaXZlc3EAfgALp1J4tnQAC3Bvc3RSZXN0YXJ0c3EAfgALNxe9cnQACHBvc3RTdG9wc3EAfgAL75ic/XQACW5vdGlmeUFsbHNxAH4ACxovUOx0ABFhcm91bmRQb3N0UmVzdGFydHNxAH4AC79DPMp0AAxpc0luc3RhbmNlT2ZzcQB+AAvuaSUVdAAQYXJvdW5kUHJlUmVzdGFydHNxAH4ACwnxBi50AA5hcm91bmRQb3N0U3RvcHNxAH4ACzE9ucJ0AAY8aW5pdD5zcQB+AAvQNrVrdAAIcHJlU3RhcnRzcQB+AAvoJMwGdAAJdW5oYW5kbGVkc3EAfgALwDy1RHQAAj09c3EAfgALyp6bLXQABWNsb25lc3EAfgALocXRJHQABUhlbGxvc3EAfgALXqD+aHQABnNlbmRlcnNxAH4AC2wfIQ90AAh0b1N0cmluZ3NxAH4AC+IIUDJ0AAIhPXNxAH4ACyfyOpB0AAhnZXRDbGFzc3NxAH4AC7BOuHF0AAJuZXNxAH4AC7my7mV0ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsoUKrkdAACZXFzcQB+AAsB4+tsdAADbG9nc3EAfgALAZE7unQAAiMjc3EAfgAL8fufjXQACGZpbmFsaXplc3EAfgALVc9R4nQACGhhc2hDb2Rlc3EAfgALmglOTnQADmFyb3VuZFByZVN0YXJ0c3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AZXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AAx4cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgBDdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgB9eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgB8AXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBlTAAJaW5oZXJpdGVkcQB+AGVMAAdwYXJlbnRzcQB+AGV4cQB+AIVzcQB+AHwBdXEAfgBgAAAAAHBzcQB+AHwBdXEAfgBgAAAAAHBzcQB+AHwBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAARzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCEdAAMQWN0b3JMb2dnaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCEc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARha2thc3EAfgCddAAFYWN0b3JzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AnnNxAH4AkXQABUFjdG9ycQB+AJdzcQB+AJF0AAZPYmplY3RzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCddAAEamF2YXNxAH4AnXQABGxhbmdxAH4ApHNxAH4AkXQAA0FueXNxAH4AlXNxAH4AmHVxAH4AmwAAAAJzcQB+AJ10AAVzY2FsYXEAfgCkcHBzcQB+AGJxAH4Ab3VxAH4AcAAAAABzcQB+AHIAcQB+ABt1cQB+AHQAAAAAcQB+AHh1cQB+AHoAAAAAc3EAfgB8AHBzcQB+AIFxAH4AhnNxAH4AfAFzcQB+AIhzcQB+AHwBdXEAfgBgAAAAAHBzcQB+AHwBdXEAfgBgAAAAAHBzcQB+AHwBdXEAfgCPAAAAA3NxAH4AkXQABUFjdG9yc3EAfgCVc3EAfgCYdXEAfgCbAAAAA3NxAH4AnXQABGFra2FzcQB+AJ10AAVhY3RvcnEAfgCkc3EAfgCRcQB+AKhzcQB+AJVzcQB+AJh1cQB+AJsAAAADc3EAfgCdcQB+AK1zcQB+AJ1xAH4Ar3EAfgCkc3EAfgCRcQB+ALFzcQB+AJVzcQB+AJh1cQB+AJsAAAACc3EAfgCdcQB+ALZxAH4ApHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU5LzqR1dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgAMTAAPc291cmNlRGlyZWN0b3J5cQB+AAx4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQvRXd/7abCxRE6WJm44DOVkwYtew==
+external apis:
+0 items
+source infos:
+3 items
+/Users/ciaran/Development/actorExcersises/src/main/scala/Average.scala -> 
+AAAAAAAAAAA=
+/Users/ciaran/Development/actorExcersises/src/main/scala/DirectoryTraverseWordCount.scala -> 
+AAAAAAAAAAA=
+/Users/ciaran/Development/actorExcersises/src/main/scala/Hello.scala -> 
+AAAAAAAAAAA=
+compilations:
+20 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkuCvXd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkuHvtV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkuMifJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkuNoBt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkuOQtx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkuQrk51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkufHht1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkuhh8N1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkupYl91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTku7cHN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTku+B5p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvAtcx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvBi+h1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvB3jd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvOpHV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvfQxp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvjiiN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvkWxV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvmHQN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTkvnQZJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9jaWFyYW4vRGV2ZWxvcG1lbnQvYWN0b3JFeGNlcnNpc2VzL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEv

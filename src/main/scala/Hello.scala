@@ -1,4 +1,4 @@
-import akka.actor.{Props, Actor}
+import akka.actor.{ActorLogging, Props, Actor}
 import akka.event.Logging
 
 /*
@@ -6,9 +6,8 @@ import akka.event.Logging
 Hello World actor program!
 
  */
-class Hello extends Actor {
+class Hello extends Actor with ActorLogging {
 
-  val log = Logging(context.system, this)
   def receive = {
     case "test" => {
       log.info("received test")

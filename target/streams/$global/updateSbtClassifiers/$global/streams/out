@@ -607,9 +607,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.2!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.2!apply-macro.jar
-[debug] :: resolution report :: resolve 780ms :: artifacts dl 20ms
-[debug] 	report for actorexcersis#actorexcersis$sbt_2.11;1.0 default produced in /Users/ciaran/Development/CourseraReactive/actorExcersis/target/resolution-cache/reports/actorexcersis-actorexcersis$sbt_2.11-default.xml
-[debug] 	resolve done (780ms resolve - 20ms download)
+[debug] :: resolution report :: resolve 425ms :: artifacts dl 17ms
+[debug] 	report for actorexcersis#actorexcersis$sbt_2.11;1.0 default produced in /Users/ciaran/Development/actorExcersises/target/resolution-cache/reports/actorexcersis-actorexcersis$sbt_2.11-default.xml
+[debug] 	resolve done (425ms resolve - 17ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: actorexcersis#actorexcersis$sources_2.11;1.0
 [debug] 	confs: [default]
@@ -952,6 +952,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.2!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.2!precompiled-2_9_3.jar(src)
 [debug] 	[NOT REQUIRED] org.jetbrains#sbt-structure;2.4.0!sbt-structure.jar(src)
-[debug] :: resolution report :: resolve 158ms :: artifacts dl 22ms
-[debug] 	report for actorexcersis#actorexcersis$sources_2.11;1.0 default produced in /Users/ciaran/Development/CourseraReactive/actorExcersis/target/resolution-cache/reports/actorexcersis-actorexcersis$sources_2.11-default.xml
-[debug] 	resolve done (158ms resolve - 22ms download)
+[debug] :: resolution report :: resolve 104ms :: artifacts dl 19ms
+[debug] 	report for actorexcersis#actorexcersis$sources_2.11;1.0 default produced in /Users/ciaran/Development/actorExcersises/target/resolution-cache/reports/actorexcersis-actorexcersis$sources_2.11-default.xml
+[debug] 	resolve done (104ms resolve - 19ms download)
