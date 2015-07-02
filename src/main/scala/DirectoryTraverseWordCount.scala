@@ -1,6 +1,6 @@
 import java.io.File
 
-import akka.actor.{Actor, ActorLogging, Props}
+import akka.actor.{ActorSystem, Actor, ActorLogging, Props}
 
 import scala.io.Source
 import scala.util.matching.Regex
@@ -45,17 +45,16 @@ import scala.util.matching.Regex
 }
 
 object CountNumWordsInFile {
-  val counter = System.actorOf(Props[CountTotal], "CountTotal")
+  implicit val system = ActorSystem()
+  val counter = system.actorOf(Props[CountTotal], "CountTotal")
 }
 
 class CountNumWordsInFile extends Actor with ActorLogging {
 
-
-
   def receive = {
     case file:File =>{
       log.info("received file. Starting to count words in it")
-      counter ! countWordsInFile(file)
+      CountNumWordsInFile.counter ! countWordsInFile(file)
     }
     case _ => log.error("unexpected Message")
   }
