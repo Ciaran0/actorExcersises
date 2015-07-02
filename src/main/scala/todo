@@ -1,0 +1,4 @@
+Companion object for sending messages
+Companion object props
+
+sbt "run-main akka.Main HelloWorld"
